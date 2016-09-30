@@ -1,0 +1,25 @@
+{
+  "name": "cucumber-test",
+  "version": "0.1.0",
+  "description": "onliner.by test",
+  "main": "cucumber.js",
+  "dependencies": {
+    "chromedriver": "^2.24.1",
+    "selenium-webdriver": "^3.0.0-beta-3",
+    "cucumber": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjlion/cucumber-test.git"
+  },
+  "author": "Mark Naumenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjlion/cucumber-test/issues"
+  },
+  "homepage": "https://github.com/tjlion/cucumber-test#readme"
+}
