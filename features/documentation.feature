@@ -8,3 +8,8 @@ Scenario: visit onliner.by
     Then I click on "Search field"
     Then I input "Apple iPhone 6s 16GB Silver"
     Then I should go to a market page
+    Then I should see matrix dots
+    Then I should see processor
+    Then I should see scanner
+    Then I should see length
+    Then I should not see fm
